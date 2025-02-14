@@ -1,5 +1,9 @@
 # GBC
 
+[Midterm Notes](comp1238.md)
+
+
+
 ## Links
 - [D2L](https://learn.georgebrown.ca)
 - [AtKlass](https://app.atklass.com)
